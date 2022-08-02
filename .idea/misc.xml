@@ -3,6 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/michelle.tedria/Desktop/git_repositories/csv-retrofitsample/app/src/main/res/drawable/contact_border.xml" value="0.2275" />
+        <entry key="..\:/Users/michelle.tedria/Desktop/git_repositories/csv-retrofitsample/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/michelle.tedria/Desktop/git_repositories/csv-retrofitsample/app/src/main/res/layout/activity_view_contact.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/michelle.tedria/Desktop/git_repositories/csv-retrofitsample/app/src/main/res/layout/item_user.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/michelle.tedria/Downloads/RetrofitSample - For Final Exam/RetrofitSample/app/src/main/res/layout/activity_main.xml" value="0.4" />
       </map>
     </option>
